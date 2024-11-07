@@ -1,0 +1,14 @@
+# Config files
+config/database.php
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db 
